@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Super-Nova9000
-- 👀 I’m interested in planes and horses!
+- 👀 I’m interested in mainly just planes!
 - 🌱 I’m currently learning C#!
 
 <!---
