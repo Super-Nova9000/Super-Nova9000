@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Super-Nova9000
-- 👀 I’m interested in mainly just planes!
+- 👀 I love planes!
 - 🌱 I’m currently learning C#!
 
 I don't upload everything I do to Github, but sometimes I feel like it.
